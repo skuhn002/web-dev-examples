@@ -8,3 +8,8 @@
     - "category_2"
     - "voting_1"
     - "voting_2"
+ In Progress:
+  - Contest
+  - Poetry Submission Form
+ Email Example:
+  - Sends email to my mailtrap.io account
